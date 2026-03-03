@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ability_haste",
+    "name": "Ability haste",
+    "url": "https://leagueoflegends.fandom.com/wiki/Ability_haste",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/95/Cooldown_reduction_icon.png"
+  },
+  {
+    "id": "ability_power",
+    "name": "Ability power",
+    "url": "https://leagueoflegends.fandom.com/wiki/Ability_power",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0a/Ability_power_icon.png"
+  },
+  {
+    "id": "armor",
+    "name": "Armor",
+    "url": "https://leagueoflegends.fandom.com/wiki/Armor",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/f/f0/Armor_icon.png"
+  },
+  {
+    "id": "lethality_and_flat_armor_reduction",
+    "name": "Lethality and flat armor reduction",
+    "url": "https://leagueoflegends.fandom.com/wiki/Armor_penetration#Lethality",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/6/64/Armor_penetration_icon.png"
+  },
+  {
+    "id": "attack_damage",
+    "name": "Attack damage",
+    "url": "https://leagueoflegends.fandom.com/wiki/Attack_damage",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/75/Attack_damage_icon.png"
+  },
+  {
+    "id": "attack_speed",
+    "name": "Attack speed",
+    "url": "https://leagueoflegends.fandom.com/wiki/Attack_speed",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/9/91/Attack_speed_icon.png"
+  },
+  {
+    "id": "critical_strike_chance",
+    "name": "Critical strike chance",
+    "url": "https://leagueoflegends.fandom.com/wiki/Critical_strike",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/c/c6/Critical_strike_chance_icon.png"
+  },
+  {
+    "id": "critical_strike_damage",
+    "name": "Critical strike damage",
+    "url": "https://leagueoflegends.fandom.com/wiki/Critical_strike#Modifying_Critical_Strike_Damage",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0f/Critical_strike_damage_icon.png"
+  },
+  {
+    "id": "heal_and_shield_power",
+    "name": "Heal and shield power",
+    "url": "https://leagueoflegends.fandom.com/wiki/Heal_and_shield_power",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/2/28/Heal_and_shield_power_icon.png"
+  },
+  {
+    "id": "health",
+    "name": "Health",
+    "url": "https://leagueoflegends.fandom.com/wiki/Health",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/1/17/Health_icon.png"
+  },
+  {
+    "id": "health_regeneration",
+    "name": "Health regeneration",
+    "url": "https://leagueoflegends.fandom.com/wiki/Health_regeneration",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/31/Health_regeneration_icon.png"
+  },
+  {
+    "id": "life_steal",
+    "name": "Life steal",
+    "url": "https://leagueoflegends.fandom.com/wiki/Life_steal",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Life_steal_icon.png"
+  },
+  {
+    "id": "magic_resistance",
+    "name": "Magic resistance",
+    "url": "https://leagueoflegends.fandom.com/wiki/Magic_resistance",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/84/Magic_resistance_icon.png"
+  },
+  {
+    "id": "flat_magic_penetration_and_reduction",
+    "name": "Flat magic penetration and reduction",
+    "url": "https://leagueoflegends.fandom.com/wiki/Magic_penetration",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/6/62/Magic_penetration_icon.png"
+  },
+  {
+    "id": "mana",
+    "name": "Mana",
+    "url": "https://leagueoflegends.fandom.com/wiki/Mana",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/8/8b/Mana_icon.png"
+  },
+  {
+    "id": "mana_regeneration",
+    "name": "Mana regeneration",
+    "url": "https://leagueoflegends.fandom.com/wiki/Mana_regeneration",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/0/0c/Mana_regeneration_icon.png"
+  },
+  {
+    "id": "omnivamp",
+    "name": "Omnivamp",
+    "url": "https://leagueoflegends.fandom.com/wiki/Omnivamp",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/35/Omnivamp_icon.png"
+  },
+  {
+    "id": "physical_vamp",
+    "name": "Physical vamp",
+    "url": "https://leagueoflegends.fandom.com/wiki/Physical_vamp",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/7/76/Life_steal_icon.png"
+  },
+  {
+    "id": "tenacity",
+    "name": "Tenacity",
+    "url": "https://leagueoflegends.fandom.com/wiki/Tenacity",
+    "icon": "https://static.wikia.nocookie.net/leagueoflegends/images/3/33/Tenacity_icon.png"
+  },
+  {
+    "id":"true_damage",
+    "name":"True Damage",
+    "url":"https://leagueoflegends.fandom.com/wiki/True_damage",
+    "icon":"https://static.wikia.nocookie.net/leagueoflegends/images/3/3d/True_Damage_TFT_icon.svg"
+  }
+]
